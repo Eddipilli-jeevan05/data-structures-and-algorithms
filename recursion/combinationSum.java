@@ -1,3 +1,12 @@
+//Problem: Combination sum
+// pattern: recursion, backtracking with pick/not pick pattern
+// TC: O(2^t * k) where t is the target and k is the average length of the combination
+// SC: O(k*x) where k is the average length of the combination and x is the number of combinations
+
+
+
+
+
 import java.util.ArrayList;
 import java.util.List;
 class Solution {
