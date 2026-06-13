@@ -1,4 +1,4 @@
-// Problem: Combination Sum II (Optimal)
+// Problem: Combination Sum II
 
 // Pattern: Recursion, Backtracking with Loop-Based Choice Pattern
 
