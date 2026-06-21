@@ -1,3 +1,22 @@
+// Problem: Subset sums 1
+// Genrate all the sums of subsets of the given array
+
+
+// Pattern: pick/not pick
+
+
+
+// Approach:
+// Generate all possible combinations of the array elements using recursion.
+// Keep those sums in an arraylist and return it.
+
+// TC: O(2^n)
+// where n is the number of elements
+
+// SC: O(2^n) recursion stack +
+// O(k * x) for storing x valid combinations
+
+
 import java.util.ArrayList;
 
 public class subset {
