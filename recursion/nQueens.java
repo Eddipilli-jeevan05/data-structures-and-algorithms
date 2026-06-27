@@ -79,3 +79,4 @@ public class nQueens {
         return ans;
     }
 }
+
